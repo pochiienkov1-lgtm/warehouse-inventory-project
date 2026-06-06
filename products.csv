@@ -1,0 +1,4 @@
+name,stock,price,value,status
+Milk,15,80.0,1200.0,Норма
+Bread,3,40.0,120.0,Критически мало
+Coffee,27,80.0,2160.0,Норма
